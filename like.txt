@@ -1,7 +1,3 @@
 one
-<<<<<<< HEAD
 remove
 3
-=======
-m2
->>>>>>> main
